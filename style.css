@@ -1,0 +1,53 @@
+
+.travel_mainDiv
+{
+   border: 1px solid cyan;
+   background: yellow;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv h5,.travel_mainDivp {
+
+    margin: 20px;
+}
+.page-header{
+    background:cyan ;
+}
+.container{
+    background: cyan;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding:6px 22px ;
+     border-radius: 10 px ;
+     margin-bottom: 15px ;
+  }
+  .movie_head i{
+      float: right;
+  }
+  movie_text i span{
+  color:orange
+  }
+
+.book 
+{
+    margin-bottom: 20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+
+
